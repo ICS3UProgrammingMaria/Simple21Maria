@@ -1,9 +1,9 @@
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\bin\Debug\Simple21Maria.exe.config
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\bin\Debug\Simple21Maria.exe
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\bin\Debug\Simple21Maria.pdb
-N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.csprojResolveAssemblyReference.cache
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.frmSimple21.resources
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.Properties.Resources.resources
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.csproj.GenerateResource.Cache
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.exe
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Assignments\Simple21Maria\Simple21Maria\obj\Debug\Simple21Maria.csprojResolveAssemblyReference.cache

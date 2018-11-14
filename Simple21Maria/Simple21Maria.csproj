@@ -88,5 +88,8 @@
   <ItemGroup>
     <None Include="Resources\live-casino9.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13086_F337X copy.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
