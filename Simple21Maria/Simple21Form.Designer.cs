@@ -52,6 +52,7 @@
             // 
             // btnStart
             // 
+            this.btnStart.Cursor = System.Windows.Forms.Cursors.WaitCursor;
             this.btnStart.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStart.Location = new System.Drawing.Point(370, 141);
@@ -65,6 +66,7 @@
             // 
             // btnHit
             // 
+            this.btnHit.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnHit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHit.Location = new System.Drawing.Point(532, 427);
             this.btnHit.Name = "btnHit";
@@ -76,6 +78,7 @@
             // 
             // btnStay
             // 
+            this.btnStay.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnStay.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStay.Location = new System.Drawing.Point(244, 427);
             this.btnStay.Name = "btnStay";
@@ -107,14 +110,14 @@
             // newGameToolStripMenuItem
             // 
             this.newGameToolStripMenuItem.Name = "newGameToolStripMenuItem";
-            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
+            this.newGameToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.newGameToolStripMenuItem.Text = "New Game";
             this.newGameToolStripMenuItem.Click += new System.EventHandler(this.newGameToolStripMenuItem_Click);
             // 
             // mniExit
             // 
             this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(132, 22);
+            this.mniExit.Size = new System.Drawing.Size(152, 22);
             this.mniExit.Text = "Exit";
             this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
@@ -123,11 +126,12 @@
             this.lblDisplayOutcome.AutoSize = true;
             this.lblDisplayOutcome.BackColor = System.Drawing.Color.ForestGreen;
             this.lblDisplayOutcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDisplayOutcome.Location = new System.Drawing.Point(387, 384);
+            this.lblDisplayOutcome.Location = new System.Drawing.Point(389, 398);
             this.lblDisplayOutcome.Name = "lblDisplayOutcome";
             this.lblDisplayOutcome.Size = new System.Drawing.Size(95, 24);
             this.lblDisplayOutcome.TabIndex = 7;
             this.lblDisplayOutcome.Text = "Outcome";
+            this.lblDisplayOutcome.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // lblPlayerCard1
             // 
@@ -217,20 +221,22 @@
             // 
             this.lbldealersubtotal.AutoSize = true;
             this.lbldealersubtotal.BackColor = System.Drawing.Color.ForestGreen;
-            this.lbldealersubtotal.Font = new System.Drawing.Font("Racer", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbldealersubtotal.Location = new System.Drawing.Point(512, 383);
+            this.lbldealersubtotal.Font = new System.Drawing.Font("Racer", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbldealersubtotal.ForeColor = System.Drawing.Color.DarkRed;
+            this.lbldealersubtotal.Location = new System.Drawing.Point(490, 433);
             this.lbldealersubtotal.Name = "lbldealersubtotal";
-            this.lbldealersubtotal.Size = new System.Drawing.Size(0, 23);
+            this.lbldealersubtotal.Size = new System.Drawing.Size(0, 19);
             this.lbldealersubtotal.TabIndex = 17;
             // 
             // lblplayersubtotal
             // 
             this.lblplayersubtotal.AutoSize = true;
             this.lblplayersubtotal.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblplayersubtotal.Font = new System.Drawing.Font("Racer", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblplayersubtotal.Location = new System.Drawing.Point(357, 383);
+            this.lblplayersubtotal.Font = new System.Drawing.Font("Racer", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblplayersubtotal.ForeColor = System.Drawing.Color.DarkRed;
+            this.lblplayersubtotal.Location = new System.Drawing.Point(366, 433);
             this.lblplayersubtotal.Name = "lblplayersubtotal";
-            this.lblplayersubtotal.Size = new System.Drawing.Size(0, 23);
+            this.lblplayersubtotal.Size = new System.Drawing.Size(0, 19);
             this.lblplayersubtotal.TabIndex = 18;
             // 
             // frmSimple21
